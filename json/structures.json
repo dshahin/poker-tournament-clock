@@ -1,0 +1,60 @@
+{
+	"default" : {
+		"name": "Default Structure",
+		"rounds" : [
+			{ 
+				"length" : 20,
+				"little" : 50,
+				"big"    : 25,
+				"ante"   : 0,
+				"break"  : false
+			},
+			{ 
+				"length" : 20,
+				"little" : 50,
+				"big"    : 25,
+				"ante"   : 0,
+				"break"  : false
+			},
+			{ 
+				"length" : 20,
+				"little" : 50,
+				"big"    : 25,
+				"ante"   : 0,
+				"break"  : false
+			},
+			{ 
+				"break"  : true
+			}
+		]
+	},
+	"home game" : {
+		"name": "Home Game",
+		"rounds" : [
+			{ 
+				"length" : 20,
+				"little" : 50,
+				"big"    : 25,
+				"ante"   : 0,
+				"break"  : false
+			},
+			{ 
+				"length" : 20,
+				"little" : 50,
+				"big"    : 25,
+				"ante"   : 0,
+				"break"  : false
+			},
+			{ 
+				"length" : 20,
+				"little" : 50,
+				"big"    : 25,
+				"ante"   : 0,
+				"break"  : false
+			},
+			{ 
+				"break"  : true
+			}
+		]
+	}
+}
